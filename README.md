@@ -40,7 +40,7 @@ None
 ---
 - hosts: all
   roles:
-    - oefenweb.bash
+    - bash
 ```
 
 #### License

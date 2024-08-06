@@ -2,5 +2,4 @@
 ---
 bash_dependencies:
   - bash
-  - bash-completion
   - athena-jot
